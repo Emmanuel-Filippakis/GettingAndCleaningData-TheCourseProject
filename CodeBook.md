@@ -31,6 +31,9 @@ Observations  : 10299
 Second phase is the process of getting out from the DataAll only the required variables which are activity, subject and the mean and the standard deviation for each measurement. This is done by subsetting the DataAll file using a filter to features variable that collects only the ones that contains words "mean()" or "std()"
 
 The file we receive at the end of this phase has the following characteristics:
+
 File Name : DataAll
-Variables : 68 (Variables List Here)
+
+Variables : 68 [Variables List Here](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/DataAll%20-%20Phase%20Two%20Variables%20List.txt)
+
 Observations  : 10299
