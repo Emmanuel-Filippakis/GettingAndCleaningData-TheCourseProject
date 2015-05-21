@@ -23,7 +23,7 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
- Sector A. The run_analysis.R script was created in Rstudio (Version 0.98.1103) and does the following.
+ The run_analysis.R script was created in Rstudio (Version 0.98.1103) and does the following.
  
     1.Merges the training and the test sets to create one data set.
     
