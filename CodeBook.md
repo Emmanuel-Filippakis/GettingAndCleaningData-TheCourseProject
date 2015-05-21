@@ -18,7 +18,19 @@ and information about the Features of the activities can be found in the file
 The purpose of this project is to collect, work with, and clean the given data set and the goal is to prepare tidy data that can be used for later analysis.
 
 ### The Process
-In the first phase we perform a merge of the data for each variable from the two different sets (training and test) so all records for each variable row by row are joined in a new file. Then a new merge is performed to join all three variables in a new data file that "has it all"...
+In the first phase we perform a merge of the data for each variable from the two different sets (training and test) so all records row by row are joined in a new file for each variable (files: ActivityAll, SubjectAll and FeaturesAll). Then a new merge is performed to join all three variables in a new data file that "has it all" named DataAll.
 
 The file we receive at the end of this phase has the following characteristics:
 
+File Name : DataAll
+
+Variables : 563 [Variables List Here](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/DataAll%20-%20Phase%20One%20Variables%20List.txt)
+
+Observations  : 10299
+
+Second phase is the process of getting out from the DataAll only the required variables which are activity, subject and the mean and the standard deviation for each measurement. This is done by subsetting the DataAll file using a filter to features variable that collects only the ones that contains words "mean()" or "std()"
+
+The file we receive at the end of this phase has the following characteristics:
+File Name : DataAll
+Variables : 68 (Variables List Here)
+Observations  : 10299
