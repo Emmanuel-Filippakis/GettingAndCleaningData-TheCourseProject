@@ -1,5 +1,5 @@
 
-# About the Original Data Set
+## About the Original Data Set
 The original data was collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 A full description of the original data is available at the official site:
@@ -10,6 +10,10 @@ The original data can be found here:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-A short description of the original data set can be found in the "The original Data.txt"
-of my repository and Information about the Features of the activities can be found in the file 
-"The Features Info.txt".
+A short description of the original data set can be found in the file [The original Data.txt](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/The%20original%20Data.txt) of my repository 
+and information about the Features of the activities can be found in the file 
+[The Features Info.txt](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/The%20Features%20Info.txt).
+
+The purpose of this project is to collect, work with, and clean the given data set. 
+
+The goal is to prepare tidy data that can be used for later analysis
