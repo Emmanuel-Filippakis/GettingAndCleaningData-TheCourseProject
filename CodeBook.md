@@ -41,4 +41,5 @@ These is the activity assignment list:
 
 During the fourth phase we give a better name to all the features of the activites by the following rules:
 We need to label the Features according to the description  of each one:
-  t = time / Acc = Accelerometer / Gyro = Gyroscope / f = frequency / Mag = Magnitude / BodyBody = Body
+
+t = time / Acc = Accelerometer / Gyro = Gyroscope / f = frequency / Mag = Magnitude / BodyBody = Body
