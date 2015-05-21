@@ -37,3 +37,9 @@ File Name : DataAll
 Variables : 68 [Variables List Here](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/DataAll%20-%20Phase%20Two%20Variables%20List.txt)
 
 Observations  : 10299
+
+In the fird phase of the project we assign names to all Variables that are more descriptive of the activities of the research.
+
+These is the activity assignment list:
+
+1->WALKING / 2->WALKING_UPSTAIRS / 3->WALKING_DOWNSTAIRS / 4->SITTING / 5->STANDING / 6->LAYING
