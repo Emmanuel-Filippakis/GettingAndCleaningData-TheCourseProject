@@ -14,9 +14,11 @@ A short description of the original data set can be found in the file [The origi
 and information about the Features of the activities can be found in the file 
 [The Features Info.txt](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/The%20Features%20Info.txt).
 
+-----------------------------------------------
 ### About this Project
 The purpose of this project is to collect, work with, and clean the given data set and the goal is to prepare tidy data that can be used for later analysis.
 
+---------------------------------------------
 ### The Process
 In the first phase we perform a merge of the data for each variable from the two different sets (training and test) so all records row by row are joined in a new file for each variable (files: ActivityAll, SubjectAll and FeaturesAll). Then a new merge is performed to join all three variables in a new data file that "has it all" named DataAll.
 
