@@ -1,5 +1,5 @@
 # Preparation module, downloads, stores, unzips and checks the files in the local directory
-
+# not necessary if files are stored and unziped locally
   url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
   download.file(url,destfile="./datafiles/Dataset.zip")
   unzip(zipfile="./datafiles/Dataset.zip",exdir="./datafiles/")
