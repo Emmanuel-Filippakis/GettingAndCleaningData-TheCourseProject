@@ -45,3 +45,13 @@ During the fourth phase we give a better name to all the features of the activit
 We need to label the Features according to the description  of each one:
 
 t = time / Acc = Accelerometer / Gyro = Gyroscope / f = frequency / Mag = Magnitude / BodyBody = Body
+
+------------------------------
+The last and fifth phase is the one that we create a tidy set of data to be exported and ready for use in the future.
+By tidy we mean that:
+
+From the previous data set (DataAll) we create a new one called TidyData with the average of each variable for each activity and each subject.
+
+We export the TidyData set to a .txt file  called [averages_data.txt]()
+
+As the subjects were 30 originally and the activities 6 we have received 30x6=180 total observations and 68 variables for each observation.
