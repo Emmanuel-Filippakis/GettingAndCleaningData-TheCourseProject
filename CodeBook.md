@@ -14,6 +14,5 @@ A short description of the original data set can be found in the file [The origi
 and information about the Features of the activities can be found in the file 
 [The Features Info.txt](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/The%20Features%20Info.txt).
 
-The purpose of this project is to collect, work with, and clean the given data set. 
-
-The goal is to prepare tidy data that can be used for later analysis
+## About this Project
+The purpose of this project is to collect, work with, and clean the given data set and the goal is to prepare tidy data that can be used for later analysis.
