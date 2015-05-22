@@ -8,9 +8,11 @@ Submited in the Repo:
 
 2) the script run_analysis.R which results a tidy data set as described in Sector A.
 
-3) The AveragesDataOutput.txt that Contents the Tidy Data set created in step 5 of the instructions of Sector A.
+3) The Averages_Data.txt that Contents the Tidy Data set created in step 5 of the instructions of Sector A.
 
 4) a Code Book that describes the variables, the data, and any transformations or work that you performed to clean up the    data called CodeBook.md. 
+
+5) other files related with the project (described in the CodeBook.md)
 
 
 A full description is available at the site where the data was obtained:
