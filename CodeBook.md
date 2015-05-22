@@ -52,6 +52,6 @@ By tidy we mean that:
 
 From the previous data set (DataAll) we create a new one called TidyData with the average of each variable for each activity and each subject.
 
-We export the TidyData set to a .txt file  called [averages_data.txt]()
+We export the TidyData set to a .txt file  called [averages_data.txt](https://github.com/Emmanuel-Filippakis/GettingAndCleaningData-TheCourseProject/blob/master/averages_data.txt)
 
 As the subjects were 30 originally and the activities 6 we have received 30x6=180 total observations and 68 variables for each observation.
